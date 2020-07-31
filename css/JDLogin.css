@@ -162,10 +162,9 @@ body{
     margin-top: -8px;
 }
 #id6{
+    margin-top: -50px;
     width: 87%;
     height: 69px;
-    position: absolute;
-    bottom: 124px;
     display: flex;
     justify-content: space-around;
 }
@@ -173,7 +172,7 @@ body{
     width: 48px;
     height: 69px;
     text-align: center;
-    margin-left: 70px;
+    margin-left: 50px;
     color: gainsboro;
     font-size: 14px;
 }
