@@ -213,14 +213,14 @@ body{
 }
 #id4>div{
     width: 100%;
-    height: 1365px;
+    height: 92%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 }
 #id4>div>div{
     border: 1px solid #F7F7F7;
-    width: 49.5%;
+    width: 49%;
     height: 18%;
 }
 #id4>div>div>img{
@@ -284,6 +284,10 @@ body{
     margin-top: 10px;
     width: 16px;
     height: 16px;
+}
+#z1{
+    width: 100%;
+    height: 50px;
 }
 #id5{
     width: 100%;

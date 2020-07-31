@@ -406,12 +406,12 @@ body{
 #tan{
     width: 100%;
     height: 100%;
-    background:#494949;
 }
 #tan>div:nth-of-type(1){
+    background:#494949;
     width: 100%;
     height: 40%;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 #tan>div:nth-of-type(2){
     width: 100%;
@@ -539,7 +539,7 @@ body{
     bottom: 0;
     position: absolute;
 }
-#tan>div:nth-of-type(2)>div:nth-of-type(5)>div{
+#tan>div:nth-of-type(2)>div:nth-of-type(5) div{
     width: 90%;
     height: 38px;
     margin-left: 5%;
