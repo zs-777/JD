@@ -552,7 +552,8 @@ body{
     height:13px;
 }
 #k{
-    width: 100;
+    width: 100%;
+    height: 50px;
 }
 #id14{
     width: 100%;
