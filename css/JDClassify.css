@@ -5,6 +5,11 @@
 #id1{
     width: 100%;
     height: 44px;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    top: 0;
+    background: white;
 }
 #id1>div{
     width: 40px;
@@ -141,4 +146,8 @@
 #k{
     width: 100%;
     height: 50px;
+}
+#j{
+    width: 100%;
+    height: 44px;
 }
